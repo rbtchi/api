@@ -14,7 +14,7 @@ res.send('demo');
 });
 
 app.listen(8000, function () {
-  console.log("API app listening on port 8000!");
+  console.log("API app listening on port 8000! http://localhost:8000/");
 });
 
 
