@@ -6,7 +6,7 @@ app.get("/", function (req, res, next) {
 });
 
 app.get('/about', function (req, res) {
-    res.send('about');
+    res.send('about 雞歪');
   });
 
 app.get('/demo', function (req, res ) {
