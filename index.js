@@ -2,11 +2,11 @@ var express = require("express");
 var app = express();
 
 app.get("/", function (req, res, next) {
-  res.send("Hello World !!!!!cyclic good");
+  res.send("Hello World !!!!!cyclic goodkjlkjfdlkas");
 });
 
 app.get('/about', function (req, res) {
-    res.send('about 雞歪');
+    res.send('about ');
   });
 
 app.get('/demo', function (req, res ) {
