@@ -1,16 +1,19 @@
 {
   "notes": [
     {
-      "text": "1111111!Hello express js with lowdb",
-      "id": "TVasX8an4xk72ElVRcP8V"
+      "id": "001",
+      "name": "Smith",
+      "email": "smith@gmail.com"
     },
     {
-      "text": "Hello express js with lowdb",
-      "id": "Muqldqf7dfSqCXgnSBMgM"
+      "id": "002",
+      "name": "Sam",
+      "email": "sam@gmail.com"
     },
     {
-      "text": "sdfsdafaasdfh lowdb",
-      "id": "asdfasdf"
+      "id": "003",
+      "name": "lily",
+      "email": "lily@gmail.com"
     }
   ]
 }
