@@ -1,17 +1,17 @@
 {
   "notes": [
     {
-      "id": "001",
+      "id": "1",
       "name": "Smith",
       "email": "smith@gmail.com"
     },
     {
-      "id": "002",
+      "id": "2",
       "name": "Sam",
       "email": "sam@gmail.com"
     },
     {
-      "id": "003",
+      "id": "3",
       "name": "lily",
       "email": "lily@gmail.com"
     }
