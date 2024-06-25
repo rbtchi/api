@@ -17,7 +17,7 @@ app.use(bodyParser.json())
 const PORT = 8000;
 
 app.get("/", function (req, res, next) {
-  const data = db.get("notes").value()
+  const data = db.get().value()
   return res.json(data)
 });
 
